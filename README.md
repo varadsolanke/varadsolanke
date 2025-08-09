@@ -6,8 +6,7 @@
 🤖 AI & ML engineer<br>
 
 
-# 💫 About Me:
-🧠 Data Science & Artificial Intelligence student at IIIT Dharwad<br><br>💻 Full-Stack Developer<br><br>📊 Data Analyst and powerBI expert<br><br>🤖 AI & ML engineer<br>
+
 
 
 ## 🌐 Socials:
