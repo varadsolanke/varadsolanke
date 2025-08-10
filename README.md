@@ -2,7 +2,7 @@
 
 🧠 Data Science & Artificial Intelligence student at IIIT Dharwad<br>
 💻 Full-Stack Developer<br>
-📊 Data Analyst and powerBI expert<br>
+📊 Data Analyst <br>
 🤖 AI & ML engineer<br>
 
 
